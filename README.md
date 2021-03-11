@@ -2,11 +2,11 @@
 
 This is a project used to read/write files through command line.It is based on Node.js
 
-installation: 
+installation: \n
 npm install
 npm link
 
-how to use:
+how to use: \n
 wcat <filenames or options>
   
 Options:
